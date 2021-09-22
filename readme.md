@@ -9,4 +9,4 @@ Voter's Revenge has an informational wordpress site: [votersrevenge.info](https:
 
 # votersrevenge-frontend-db
 ---
-This project is about the front end used by most of the system users. In particular, browsing and joining posses, and taking and documenting activist pledges. 
+This project is about the database and API to be used by the front end, which is used by most of the system users. In particular, the frontend is used for browsing and joining posses, and taking and documenting activist pledges. 
